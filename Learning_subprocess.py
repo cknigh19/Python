@@ -1,3 +1,5 @@
+# This script creates a .txt file in Python's local directory and then causes Windows to launch notepad and open that file.
+
 # Bring in the subprocess module so I can use it later
 import subprocess
 
